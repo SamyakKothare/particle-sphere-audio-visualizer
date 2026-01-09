@@ -26,3 +26,5 @@ The visualization reacts dynamically to live microphone input, creating an immer
 2. Start a local server:
    ```bash
    python -m http.server
+3. Open http://localhost:8000
+4. Allow microphone access when prompted
